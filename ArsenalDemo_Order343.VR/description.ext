@@ -1,0 +1,13 @@
+
+/*		   RULES			*/
+
+	disabledAI	= true;
+
+/*		  SYSTEMS		   */
+
+	#include "tScripts\Arsenals\CfgCustomArsenal.hpp"
+
+	class CfgFunctions
+	{
+		#include "tScripts\CfgFunctions.hpp"
+	};
