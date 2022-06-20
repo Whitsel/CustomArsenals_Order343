@@ -1,8 +1,4 @@
 
-/*		   RULES			*/
-
-	disabledAI	= true;
-
 /*		  SYSTEMS		   */
 
 	#include "tScripts\Arsenals\CfgCustomArsenal.hpp"
